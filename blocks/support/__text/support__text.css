@@ -1,0 +1,17 @@
+.support__text {
+  margin: 0;
+  font-size: 32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 40px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: #8E8E98;
+}
+
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .support__text {
+    font-size: 20px;
+    line-height: 30px;
+  }
+}

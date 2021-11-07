@@ -1,0 +1,12 @@
+.card {
+  background-color: #1C1C1E;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  cursor: pointer;
+}
+
+.card:hover {
+  background-color: #232327;
+}

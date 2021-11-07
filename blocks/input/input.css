@@ -1,0 +1,17 @@
+.input {
+  width: 60%;
+  /* height: 50px; */
+  /* border: 1px solid red; */
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .input {
+    width: 100%;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .input {
+    width: 100%;
+  }
+}

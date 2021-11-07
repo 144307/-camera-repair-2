@@ -1,0 +1,10 @@
+.input__emoji {
+  display: inline;
+  margin-left: 10px;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .input__emoji {
+    margin-left: 0;
+  }
+}

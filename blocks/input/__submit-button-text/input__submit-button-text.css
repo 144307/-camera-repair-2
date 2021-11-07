@@ -1,0 +1,7 @@
+.input__submit-button-text {}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .input__submit-button-text {
+    display: none;
+  }
+}

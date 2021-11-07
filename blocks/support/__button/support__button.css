@@ -1,0 +1,25 @@
+.support__button {
+  height: 50px;
+  width: 306px;
+  margin-top: 90px;
+  margin-bottom: 50px;
+  border-radius: 8px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #47474C;
+  color: #EAEAF0;
+  border: 0;
+  cursor: pointer;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .support__button {
+    width: 100%;
+    margin-top: 50px;
+    margin-bottom: 30px;
+    font-size: 12px;
+    line-height: 18px;
+    letter-spacing: 0.375px;
+  }
+}

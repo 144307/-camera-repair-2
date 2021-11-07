@@ -1,0 +1,12 @@
+.promo__image-half {
+  display: flex;
+  align-items: stretch;
+  /* flex-grow: 1; */
+  /* flex: 1 1; */
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .promo__image-half {
+    flex-direction: column;
+  }
+}
