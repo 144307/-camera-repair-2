@@ -1,4 +1,6 @@
 .label__mark {
+  margin-top: 0;
+  margin-bottom: 0;
   margin-left: 20px;
   height: 20px;
   width: 99px;
@@ -7,7 +9,7 @@
   justify-content: center;
   align-items: center;
   color: #000;
-  background-color: #25E197;
+  background-color: #25e197;
   font-size: 12px;
   font-weight: 400;
   line-height: 12px;

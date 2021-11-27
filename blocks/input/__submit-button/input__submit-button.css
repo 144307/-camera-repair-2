@@ -1,19 +1,25 @@
 .input__submit-button {
   min-width: 50px;
-  width: 45%;
+  width: 50%;
   height: 100%;
   margin-left: auto;
+  padding-left: 16px;
   /* display: flex; */
   justify-content: center;
   align-items: center;
-  background-color: #47474C;
-  color: #EAEAF0;
+  background-color: #47474c;
+  color: #eaeaf0;
   border: 0;
   border-radius: 0;
   cursor: pointer;
   font-size: 14px;
   font-weight: 400;
   line-height: 24px;
+  transition: background-color 0.2s ease;
+}
+
+.input__submit-button:hover {
+  background-color: rgba(71, 71, 76, 0.8);
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {

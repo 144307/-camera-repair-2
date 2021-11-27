@@ -1,5 +1,6 @@
 .title-group__title {
   margin-bottom: 230px;
+  margin-top: 0;
 }
 
 @media screen and (min-width: 320px) and (max-width: 767px) {
