@@ -1,0 +1,15 @@
+.card {
+  color: $gray--text-light;
+  background-color: $gray--card;
+  //   text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: background-color 0.2s ease;
+}
+
+.card:hover {
+  background-color: $gray--card-hovered;
+}
