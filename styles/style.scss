@@ -1,5 +1,3 @@
-/* @import url(../vendor/normalize.css); */
-// @import "./modules/blocks/variables.scss";
 @import "./modules/blocks/variables.scss";
 @import url(../vendor/reset.css);
 @import url(../vendor/reset.css);
@@ -12,18 +10,14 @@
 @import url(../styles/modules/blocks/input/__emoji/input__emoji.css);
 @import url(../styles/modules/blocks/input/__group/input__group.css);
 @import "../styles/modules/blocks/input/__input-field/input__input-field.scss";
-// @import url(../styles/modules/blocks/input/__subcrtipt/input__subcrtipt.css);
 @import "../styles/modules/blocks/input/__subcrtipt/input__subcrtipt.scss";
 @import url(../styles/modules/blocks/input/__submit-button-text/input__submit-button-text.css);
-// @import url(../styles/modules/blocks/input/__submit-button/input__submit-button.css);
 @import "../styles/modules/blocks/input/__submit-button/input__submit-button.scss";
-// @import url(../styles/modules/blocks/page/page.css);
 @import "../styles/modules/blocks/page/page.scss";
 @import url(../styles/modules/blocks/section/section.css);
 @import url(../styles/modules/blocks/header/header.css);
 @import url(../styles/modules/blocks/label/label.css);
 @import url(../styles/modules/blocks/label/__label/label__label.css);
-// @import url(../styles/modules/blocks/label/__mark/label__mark.css);
 @import "../styles/modules/blocks/label/__mark/label__mark.scss";
 @import url(../styles/modules/blocks/label/_place/label_place_header.css);
 @import url(../styles/modules/blocks/label/_place/label_place_footer.css);
@@ -34,9 +28,7 @@
 @import url(../styles/modules/blocks/title-group/__title-second-line/title-group__title-second-line.css);
 @import url(../styles/modules/blocks/promo/promo.css);
 @import url(../styles/modules/blocks/promo/__image/promo__image.css);
-// @import url(../styles/modules/blocks/promo/__image/promo__image_green.css);
 @import "../styles/modules/blocks/promo/__image/promo__image_green.scss";
-// @import url(../styles/modules/blocks/promo/__image/promo__image_yellow.css);
 @import "../styles/modules/blocks/promo/__image/promo__image_yellow.scss";
 @import url(../styles/modules/blocks/promo/__image-half/promo__image-half.css);
 @import url(../styles/modules/blocks/about/about.css);
@@ -45,7 +37,6 @@
 @import url(../styles/modules/blocks/options/options.css);
 @import url(../styles/modules/blocks/options/__cards/options__cards.css);
 @import url(../styles/modules/blocks/options/__card/options__card.css);
-// @import url(../styles/modules/blocks/options/__card-price/options__card-price.css);
 @import "../styles/modules/blocks/options/__card-price/options__card-price.scss";
 @import "../styles/modules/blocks/options/__card-subtitle/options__card-subtitle.scss";
 @import "../styles/modules/blocks/options/__card-text/options__card-text.scss";
@@ -56,9 +47,7 @@
 @import url(../styles/modules/blocks/guarantee/__card-tilte/guarantee__card-tilte.css);
 @import url(../styles/modules/blocks/guarantee/__cards/guarantee__cards.css);
 @import url(../styles/modules/blocks/support/support.css);
-// @import url(../styles/modules/blocks/support/__button/support__button.css);
 @import "../styles/modules/blocks/support/__button/support__button.scss";
 @import "../styles/modules/blocks/support/__text/support__text.scss";
 @import url(../styles/modules/blocks/footer/footer.css);
-// @import url(../styles/modules/blocks/footer/__copyright/footer__copyright.css);
 @import "../styles/modules/blocks/footer/__copyright/footer__copyright.scss";
