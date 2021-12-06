@@ -1,0 +1,17 @@
+.indent_size_small {
+  max-width: 1380px;
+  margin: 0 auto;
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .indent_size_small {
+    margin: 0 20px;
+  }
+}
+
+@media screen and (min-width: 768px) and (max-width: 1439px) {
+  .indent_size_small {
+    max-width: none;
+    margin: 0 60px;
+  }
+}

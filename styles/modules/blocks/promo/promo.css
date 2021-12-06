@@ -1,0 +1,15 @@
+.promo {
+  display: flex;
+  flex-direction: column;
+}
+
+.promo__image_test {
+  /* max-width: calc(73% - 80px); */
+  max-width: calc(100% - 175px - 40px);
+}
+
+@media screen and (min-width: 320px) and (max-width: 767px) {
+  .promo {
+    margin-top: 40px;
+  }
+}
